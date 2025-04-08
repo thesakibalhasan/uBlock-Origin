@@ -1,6 +1,6 @@
 # 🛡️ uBlock Origin - Chrome Extension
 
-This is a reupload of the **uBlock Origin** Chrome extension (v2), which is currently not available or has been removed from the Chrome Web Store.
+This is a reupload of the **uBlock Origin** Chrome extension, which is currently not available or has been removed from the Chrome Web Store.
 
 If you're looking to block ads, trackers, and browse faster & safer — you're in the right place. ✅
 
