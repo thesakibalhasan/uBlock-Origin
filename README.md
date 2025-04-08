@@ -42,12 +42,6 @@ This repo is **not the official version**, but a **mirror for educational and pe
 
 ---
 
-## 📩 Contact
-
-Maintained by: **Sakib Al Hasan**  
-Email: `sakib2011@gmail.com`
-
----
 
 ⭐ If this helped you, consider giving it a star!
 
